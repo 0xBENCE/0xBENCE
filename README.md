@@ -27,8 +27,8 @@
   
   
   <div>
-   <img height=165 src="https://github-readme-stats.vercel.app/api?username=0xBENCE&count_private=true&theme=radical&show_icons=true">
-   <img height=165 src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xBENCE&theme=radical">
+   <img height=165 src="https://github-readme-stats.vercel.app/api?username=x00bence&count_private=true&theme=radical&show_icons=true">
+   <img height=165 src="https://github-readme-stats.vercel.app/api/top-langs/?username=x00bence&theme=radical">
   </div>
   
 </div>
