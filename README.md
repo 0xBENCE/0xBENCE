@@ -1,34 +1,29 @@
-<div align="center">
-  <img src="https://t3.ftcdn.net/jpg/02/62/90/26/360_F_262902658_P7byp0VgsKXxwWDkt6TMI7Fu6HHr6yxM.jpg" />  
-  
-  <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> 
-  	Hello there, I'm Bence!
-  </h1>
-   
-  <h3>About Me</h3>
-  
-   🚀 I'm a 17 year old sysadmin student, programmer & full stack developer from Hungary.
-   <br>
-   🔥 I also have a huge interest in reverse engineering, and I love experimenting with software!
-   <br>
-   🌴 In my free time I pursue my other hobbies such as gaming, language learning, and photography.
-   <br>
+```console
+x00bence@arch:~$ bence > README.md
+```
 
-  <h3>Languages I use and General Statistics</h3>
+> ## Hello, World!
 
-  ![HTML](https://img.shields.io/badge/-HTML-000?&logo=HTML5)
-  ![CSS](https://img.shields.io/badge/-CSS-000?&logo=CSS3)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript&logoColor=007ACC)
-  ![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
-  ![Python](https://img.shields.io/badge/-Python-000?&logo=python)
-  ![C#](https://img.shields.io/badge/-C%23-000?&logo=C-sharp&logoColor=198c20)
-  ![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
-  
-  
-  <div>
-   <img height=165 src="https://github-readme-stats.vercel.app/api?username=x00bence&count_private=true&theme=radical&show_icons=true">
-   <img height=165 src="https://github-readme-stats.vercel.app/api/top-langs/?username=x00bence&theme=radical&layout=compact">
-  </div>
-  
-</div>
+<img align="left" src="https://www.github.com/x00bence.png" width="300" height="300" />
+
+## x00bence@arch
+
+![name](https://img.shields.io/static/v1?label=&message=name%3A&color=111&style=flat-square)
+![name2](https://img.shields.io/static/v1?label=&message=Bence%20%22x00bence%22%20Kov%C3%A1cs&color=555&style=flat-square)
+
+![asl](https://img.shields.io/static/v1?label=&message=A%2FS%2FL%3A&color=111&style=flat-square)
+![asl2](https://img.shields.io/static/v1?label=&message=17%2C%20male%2C%20Hungary&color=555&style=flat-square)
+
+![occupation](https://img.shields.io/static/v1?label=&message=occupation%3A&color=111&style=flat-square)
+![occupation2](https://img.shields.io/static/v1?label=&message=student%2C%20full%20stack%20developer&color=555&style=flat-square)
+
+![hobbies](https://img.shields.io/static/v1?label=&message=hobbies%3A&color=111&style=flat-square)
+![hobbies2](https://img.shields.io/static/v1?label=&message=security%2C%20reverse%20engineering&color=555&style=flat-square)
+
+![stack](https://img.shields.io/static/v1?label=&message=stack%3A&color=111&style=flat-square)
+![stack2](https://img.shields.io/static/v1?label=&message=flexible&color=555&style=flat-square)
+
+![contact](https://img.shields.io/static/v1?label=&message=contact%3A&color=111&style=flat-square)
+![contact1](https://img.shields.io/static/v1?logo=github&label=&message=x00bence&color=555&logoColor=AAA&style=flat-square)
+![contact2](https://img.shields.io/static/v1?logo=gmail&label=&message=bence.kovacs.code%40gmail.com&color=555&logoColor=AAA&style=flat-square)
+![contact3](https://img.shields.io/static/v1?logo=discord&label=&message=Bence%239206&color=555&logoColor=AAA&style=flat-square)
